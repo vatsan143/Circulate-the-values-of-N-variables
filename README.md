@@ -24,16 +24,18 @@ End the program
 
 
 ## Program:
-developed by: srivatsan G
-register number : 212223230216
 
+developed by: srivatsan G
+
+register number : 212223230216
+```
 def circulate():
     l=eval(input())
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
 
-
+```
 ## Output:
 ![Circulate-the-values-of-N-variables](https://github.com/vatsan143/Circulate-the-values-of-N-variables/assets/147368204/c24bdd60-e22d-477f-a362-3aad2f5bd57e)
 
