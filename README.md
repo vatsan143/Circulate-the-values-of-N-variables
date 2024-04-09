@@ -5,7 +5,8 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
-### Step 1: Get the values from the user
+### Step 1:
+ Get the values from the user
 
 ### Step 2: 
 Assign the value of variable to a temporary variable
@@ -25,9 +26,10 @@ End the program
 
 ## Program:
 
-developed by: srivatsan G
+developed by: Srivatsan G
 
 register number : 212223230216
+
 ```
 def circulate():
     l=eval(input())
